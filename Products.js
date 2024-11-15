@@ -27,11 +27,11 @@ export default function Products({ setCart, cart }) {
         "https://rukminim1.flixcart.com/image/416/416/ka5oia80/mobile/e/3/3/nokia-3310-ds-ta-1030-nokia-3310-ds-original-imafrsgd8fdsfds8.jpeg?q=70"
     },
     {
-      category: HOME,
-      name: "Blanket",
+      category: UTILITY,
+      name: "earphone",
       cost: 299.0,
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpwdYDmUL_ZEqhLV7ZWRdQAU7DGcGaxtCt7SrTlL9umrQs2Un7rj9Nbb9Vq01RtEfA0eAVmdt-&usqp=CAc"
+        "https://5.imimg.com/data5/SELLER/Default/2022/2/AA/CQ/EQ/147784145/black-wire-earphone.png"
     }
   ]);
 
